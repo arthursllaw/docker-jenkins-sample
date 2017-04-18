@@ -1,4 +1,4 @@
-FROM  ubuntu:14.04
+FROM  ubuntu:16.04
 MAINTAINER Arthur Law "arthurlaw@uniserve.com.hk"
 ENV REFRESHED_AT 2016-06-01
 RUN apt-get update
